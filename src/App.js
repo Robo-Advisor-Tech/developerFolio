@@ -5,7 +5,8 @@ import Main from "./containers/Main";
 function App() {
   return (
     <div>
-      <Main />
+      <h1>Test</h1>
+      {/* <Main /> */}
     </div>
   );
 }
